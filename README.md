@@ -122,7 +122,7 @@ The latest version of the website becomes available instantly.
 
 ## 🔹 AWS Architecture Diagram
 
-![Architecture](imagess/architecture-diagram.png)
+![Architecture](images/architecture-diagram.png)
 
 
 
