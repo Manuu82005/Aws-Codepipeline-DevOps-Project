@@ -1,6 +1,6 @@
 # 🚀 AWS DevOps CI/CD Pipeline for Automated Static Website Deployment
 
-![AWS Architecture](screenshots/architecture-diagram.png)
+![AWS Architecture](images/architecture-diagram.png)
 
 
 ## 📌 Project Overview
@@ -122,25 +122,25 @@ The latest version of the website becomes available instantly.
 
 ## 🔹 AWS Architecture Diagram
 
-![Architecture](screenshots/architecture-diagram.png)
+![Architecture](imagess/architecture-diagram.png)
 
 
 
 ## 🔹 CodePipeline Successful Execution
 
-![CodePipeline](screenshots/codepipeline-success.png)
+![CodePipeline](images/codepipeline-success.png)
 
 
 
 ## 🔹 CodeBuild Successful Build
 
-![CodeBuild](screenshots/codebuild-success.png)
+![CodeBuild](images/codebuild-success.png)
 
 
 
 ## 🔹 Live Website Hosted on Amazon S3
 
-![S3 Website](screenshots/s3-static-website.png)
+![S3 Website](images/s3-static-website.png)
 
 
 
@@ -153,7 +153,7 @@ Frontend website file
 buildspec.yml
 
 AWS CodeBuild configuration file
-screenshots/
+images/
 
 Project execution screenshots
 
